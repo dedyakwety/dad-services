@@ -1,0 +1,98 @@
+.register{
+	width: 100%;
+	height: 500px;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 18px;
+}
+.register-2{
+	width: 80%;
+	margin-left: 10%;
+	height: 40px;
+}
+.form-register{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+}
+.div-1{
+	width: 50%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+#div-1{
+	border-right: 1px solid #d4d4d4;
+}
+.div-1-1{
+	width: 100%;
+	height: 15%;
+}
+.nom{
+	width: 100%;
+	height: 35%;
+	display: flex;
+	flex-direction: row;
+}
+.nom_1{
+	width: 100%;
+	height: 65%;
+	display: flex;
+	flex-direction: row;
+}
+.input{
+	width: 80%;
+	padding: 10px;
+	height: 40px;
+	border: 1px solid #d4d4d4;
+	font-size: 14px;
+}
+.sexe{
+	width: 20px;
+	padding: 10px;
+	height: 40px;
+	border: 1px solid #d4d4d4;
+	font-size: 14px;
+}
+label{
+	font-size: 13px;
+}
+.label{
+	margin-left: 5px;
+	margin-right: 50px;
+	margin-top: 9px;
+}
+
+
+.nom_2{
+	width: 100%;
+	height: 35%;
+	display: flex;
+	flex-direction: row-reverse;
+}
+.message_erreur{
+	color: red;
+	font-size: 12px;
+	width: 100%;
+	height: 35%;
+	display: flex;
+	flex-direction: row-reverse;
+}
+.nom_3{
+	width: 100%;
+	height: 65%;
+	display: flex;
+	flex-direction: row-reverse;
+}
+.register-1{
+	width: 80%;
+	margin-left: 10%;
+	height: 450px;
+}
+.btn-inscrit{
+	padding: 7px;
+	font-size: 12px;
+	float: right;
+}
